@@ -56,12 +56,12 @@ Here are some ideas to get you started:
 <br />
 
 ### 🚀 Ways to connect with me:
-<a href="https://t.me/grynkiv0x001/" target="_blank"><img target="_blank" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+[<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>][telegram]
 [<img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
 [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>][linkedin]
 [<img src="https://img.icons8.com/color/48/000000/skype--v1.png"/>][skype]
 
-
+[telegram]: https://t.me/grynkiv0x001
 [facebook]: https://facebook.com/bohdan.hrynkiv/
 [skype]: https://join.skype.com/invite/diJK4Ch14cYw
 [linkedin]: https://www.linkedin.com/in/bohdan-hrynkiv-47906614a/
