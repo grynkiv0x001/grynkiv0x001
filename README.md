@@ -68,5 +68,5 @@ Here are some ideas to get you started:
 [codewars]: https://www.codewars.com/users/grynkiv0x001
 [leetcode]: https://leetcode.com/grynkiv0x001/
 [dbg]: https://github.com/grynkiv0x001/background-generator
-[miami]: https://github.com/grynkiv0x001/
-[digits]: https://github.com/grynkiv0x001/
+[miami]: https://github.com/grynkiv0x001/Miami
+[digits]: https://github.com/grynkiv0x001/Digits
