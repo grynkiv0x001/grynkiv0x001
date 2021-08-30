@@ -1,28 +1,11 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**grynkiv0x001/grynkiv0x001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hello there, I'm Bohdan 👋
 
 ## I'm a CS Student, Musician and Developer!
 
-- 🎓 I just finished my 2nd grade of University
+- 🎓 I just started my 3rd grade of University
 - 💪 I solved 200+ tasks on [CodeWars][codewars] and [LeetCode][leetcode]
 - 📚 I’m currently learning JavaScript and React
-- 🚩 2021 Goals: to find a job as a web developer 😅
+- 🚩 2021 Goals: become much more experienced web developer
 - ⚡ Fun fact: I love cycling and playing the guitar
 
 ### Languages and Tools:
