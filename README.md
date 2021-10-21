@@ -1,10 +1,9 @@
 ### Hello there, I'm Bohdan 👋
 
-## I'm a CS Student, Musician and Developer!
+## I'm a CS enthusiast, Musician and Developer!
 
-- 🎓 I just started my 3rd grade of University
 - 💪 I solved 200+ tasks on [CodeWars][codewars] and [LeetCode][leetcode]
-- 📚 I’m currently learning JavaScript and React
+- 📚 I’m currently using React and Vue in my projects
 - 🚩 2021 Goals: become much more experienced web developer
 - ⚡ Fun fact: I love cycling and playing the guitar
 
