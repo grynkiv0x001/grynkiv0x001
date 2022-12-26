@@ -2,10 +2,10 @@
 
 ## I'm a CS enthusiast, Musician and Developer!
 
-- 💪 I solved 200+ tasks on [CodeWars][codewars] and [LeetCode][leetcode]
+- 💪 I solved 100+ tasks on [CodeWars][codewars] and [LeetCode][leetcode]
 - 📚 I’m currently using React and Vue in my projects
-- 🚩 2021 Goals: become much more experienced web developer
-- ⚡ Fun fact: I love cycling and playing the guitar
+- 🚩 2023 Goals: become much more experienced web developer & and share my experience with others
+- ⚡ Fun fact: I love reading, cycling and playing the guitar
 
 ### Languages and Tools:
 
