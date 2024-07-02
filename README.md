@@ -4,7 +4,7 @@
 
 - 💪 I solved 100+ tasks on [CodeWars][codewars] and [LeetCode][leetcode]
 - 📚 I’m currently using React and Vue in my projects
-- 🚩 2023 Goals: become much more experienced web developer & and share my experience with others
+- 🚩 2024 Goals: do more back-end and learn Rust
 - ⚡ Fun fact: I love reading, cycling and playing the guitar
 
 ### Languages and Tools:
