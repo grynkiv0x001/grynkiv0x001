@@ -3,9 +3,9 @@
 ## I'm a CS enthusiast, Musician and Developer!
 
 - 💪 I solved 100+ tasks on [CodeWars][codewars] and [LeetCode][leetcode]
-- 📚 I’m currently using React and Vue in my projects
-- 🚩 2024 Goals: do more back-end and learn Rust
-- ⚡ Fun fact: I love reading, cycling and playing the guitar
+- 📚 I’m currently using Next.js, React and Vue in my projects
+- 🚩 2025 Goals: finish more projects, learn 3D
+- ⚡ Fun fact: I love reading, cycling and playing guitar
 
 ### Languages and Tools:
 
